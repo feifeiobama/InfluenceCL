@@ -1,0 +1,16 @@
+torch
+numpy
+torchvision
+setproctitle
+six
+wandb
+onedrivedownloader
+av
+tqdm
+
+comet-ml
+jax
+jaxlib
+neural-tangents
+scikit-learn
+scipy
