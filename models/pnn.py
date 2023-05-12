@@ -9,6 +9,7 @@ import torch.optim as optim
 from datasets import get_dataset
 from torch.optim import SGD
 
+from models.utils.continual_model import ContinualModel
 from utils.args import *
 from utils.conf import get_device
 
@@ -35,7 +36,7 @@ def get_backbone(bone, old_cols=None, x_shape=None):
         raise NotImplementedError('Progressive Neural Networks is not implemented for this backbone')
 
 
-class Pnn(nn.Module):
+class Pnn(ContinualModel):
     NAME = 'pnn'
     COMPATIBILITY = ['task-il']
 
