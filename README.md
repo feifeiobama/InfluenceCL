@@ -47,7 +47,7 @@ If you find this code useful, please consider citing:
   title={Regularizing Second-Order Influences for Continual Learning},
   author={Sun, Zhicheng and Mu, Yadong and Hua, Gang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={20166--20175}
+  pages={20166--20175},
   year={2023},
 }
 ```
