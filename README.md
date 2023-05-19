@@ -1,6 +1,6 @@
 # InfluenceCL
 
-Code for CVPR 2023 paper [Regularizing Second-Order Influences for Continual Learning](https://arxiv.org/abs/2304.10177).
+Code for CVPR 2023 paper [Regularizing Second-Order Influences for Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Regularizing_Second-Order_Influences_for_Continual_Learning_CVPR_2023_paper.pdf).
 
 <p align="center">
     <img src="assets/intro.png" alt="Coreset selection process in continual learning" width=60%>
