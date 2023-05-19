@@ -43,7 +43,7 @@ The following results on Split CIFAR-10 were obtained with single NVIDIA 2080 Ti
 
 If you find this code useful, please consider citing:
 ```bibtex
-@inProceedings{sun2023regularizing,
+@inproceedings{sun2023regularizing,
   title={Regularizing Second-Order Influences for Continual Learning},
   author={Sun, Zhicheng and Mu, Yadong and Hua, Gang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
